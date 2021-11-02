@@ -1,6 +1,8 @@
 # watch_store
 
-A new Flutter project.
+## Screenshots:
+
+<img src="https://github.com/Mohammed187/watches_store/blob/main/Screenshot_1635863417.png" width="300" height="600" title="Home Screen"> <img src="https://github.com/Mohammed187/watches_store/blob/main/Screenshot_1635863421.png" width="300" height="600" title="Details Screen"> 
 
 ## Getting Started
 
